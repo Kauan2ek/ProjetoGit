@@ -1,1 +1,1 @@
-Esse projeto ensina a usar o git
+Mudando aqui durante o aprendizado
